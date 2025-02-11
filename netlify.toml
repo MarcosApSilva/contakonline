@@ -1,6 +1,6 @@
 [build]
-  base    = "/opt/build/repo/build"
-  publish = "/opt/build/repo/build/build, public"
-  publishOrigin = "config"
+  base    = "build"
   command = "yarn build"
   commandOrigin = "config"
+  publish = "build, public"
+  publishOrigin = "config"
