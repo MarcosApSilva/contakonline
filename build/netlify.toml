@@ -1,0 +1,6 @@
+[build]
+  base    = "docs"
+  publish = "build, public"
+  publishOrigin = "config"
+  command = "yarn build"
+  commandOrigin = "config"
