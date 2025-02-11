@@ -1,5 +1,5 @@
 [build]
-  base    = "docs"
+  base    = "build"
   publish = "build, public"
   publishOrigin = "config"
   command = "yarn build"
